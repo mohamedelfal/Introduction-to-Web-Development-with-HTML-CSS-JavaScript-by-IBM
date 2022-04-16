@@ -3,7 +3,7 @@
 ## table of contents
 * [Final Project: Details](#final-project-details) *[file](./Final-Project-Details.md)*
 * [Final Project: Preparation-and GitHub Setup](#project-preparation) *[file](./Final-Project-Preparation-and-GitHub-Setup.md)*
-* [Starter Code]() *[starter code FILES](./starter-code/)*
+* [Starter Code](#starter-code) *[starter code FILES](./starter-code/)*
 * [Sulation](#solution) *[WebPage]( https://mohamedelfal.github.io/Introduction-to-Web-Development-with-HTML-CSS-JavaScript-by-IBM/)*
 
 # Final Project: Details 
