@@ -55,7 +55,7 @@ You can use this feature to publish any of your projects. Let us create a URL fo
 
 * 4- Select the master branch source and click on the Save button.
 
-![select_masterbranch.png](./image/9select_masterbranch.png)
+![select_masterbranch.png](./image/select_masterbranch.png)
 
 * 5- You will see the URL for your repository.
 
