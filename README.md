@@ -126,5 +126,5 @@ You can use this feature to publish any of your projects. Let us create a URL fo
  ![solution](./image/solution.jpg)  
  
  
-**Click *[here]( https://mohamedelfal.github.io/Introduction-to-Web-Development-with-HTML-CSS-JavaScript-by-IBM/)* To Open WebPage solution**
+**Click *[here]( https://mohamedelfal.github.io/Introduction-to-Web-Development-with-HTML-CSS-JavaScript-by-IBM/)* To Open solution WebPage**
 
