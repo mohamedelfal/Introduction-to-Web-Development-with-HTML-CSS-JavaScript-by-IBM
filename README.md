@@ -1,8 +1,7 @@
-# Interest Caculator
-Initially Forked from https://github.com/ibm-developer-skills-network/vftvk-Simple-Interest-Calculator
-
-## TODO
-- Create an actual todo list (TODO.md ?)
-- Add different types of calculators
-  - Salary
-- Add more options
+# Introduction to Web Development with HTML CSS JavaScript by IBM
+## Final Project
+## table of contents
+* [Final Project Details](./Final-Project-Details.md)
+* [Final Project Preparation-and GitHub Setup](./Final-Project-Preparation-and-GitHub-Setup.md)
+* [Sulation]( https://mohamedelfal.github.io/Introduction-to-Web-Development-with-HTML-CSS-JavaScript-by-IBM/)
+* ![solution](./image/solution.jpg)
