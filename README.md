@@ -1,12 +1,12 @@
 # Introduction to Web Development with HTML CSS JavaScript by IBM
 ## Final Project
 ## table of contents
-* [Final Project: Details](#final-project-details) *[file](./Final-Project-Details.md)*
-* [Final Project: Preparation-and GitHub Setup](#project-preparation) *[file](./Final-Project-Preparation-and-GitHub-Setup.md)*
-* [Starter Code](#starter-code) *[starter code FILES](./starter-code/)*
-* [Sulation](#solution) *[WebPage]( https://mohamedelfal.github.io/Introduction-to-Web-Development-with-HTML-CSS-JavaScript-by-IBM/)*
+* [Final Project: Details](#final-project-details-) *[file](./Final-Project-Details.md)*  
+* [Final Project: Preparation-and GitHub Setup](#project-preparation-) *[file](./Final-Project-Preparation-and-GitHub-Setup.md)*  
+* [Starter Code](#starter-code-) *[starter code FILES](./starter-code/)*
+* [Sulation](#solution-) *[WebPage]( https://mohamedelfal.github.io/Introduction-to-Web-Development-with-HTML-CSS-JavaScript-by-IBM/)*  
 
-# Final Project: Details 
+# Final Project: Details [🔝](#introduction-to-web-development-with-html-css-javascript-by-ibm)
 ## Project - Simple Interest Calculator
 
 
@@ -33,7 +33,7 @@ The elements are not properly aligned. The colors are not professional. And the 
 
 The NGO has now approached you to get this app completed. Are you ready to help them?  
 
-**Objectives**  
+**Objectives**  [🔝](#introduction-to-web-development-with-html-css-javascript-by-ibm)
 
 Download the source code.  
 Modify the html file as per requirements.  
@@ -44,7 +44,7 @@ Upload to GitHub.
 Share the link for peer review.  
 
 
-# Project Preparation
+# Project Preparation [🔝](#introduction-to-web-development-with-html-css-javascript-by-ibm)
 Your task is to develop a web application that looks as follows:
 
 ![1](./image/1.png)
@@ -64,11 +64,11 @@ Some work has already been done on the project and it currently looks as follows
 
 Now that you know what has to be done. Let us prepare the environment for you to get started.
 
-## Objectives
+## Objectives [🔝](#introduction-to-web-development-with-html-css-javascript-by-ibm)
 * 1- Fork the project.
 * 2- Create GitHub pages to publish the project.
 
-## Exercise 1 : Fork the project
+## Exercise 1 : Fork the project [🔝](#introduction-to-web-development-with-html-css-javascript-by-ibm)
 * 1- Login to your GitHub.
 * 2- Fork the repo at https://github.com/ibm-developer-skills-network/vftvk-Simple-Interest-Calculator
 
@@ -84,7 +84,7 @@ Now that you know what has to be done. Let us prepare the environment for you to
 
 ![checkfiles.png](./image/checkfiles.png)
 
-## Exercise 2 : Publish on GitHub pages
+## Exercise 2 : Publish on GitHub pages [🔝](#introduction-to-web-development-with-html-css-javascript-by-ibm)
 **GitPages** allows you to publish the content on your git repo as a web site, which can be accessed by anyone on the internet.
 
 You can use this feature to publish any of your projects. Let us create a URL for the project you are about to complete.
@@ -115,14 +115,14 @@ You can use this feature to publish any of your projects. Let us create a URL fo
 
 ## I have forked [here](https://github.com/mohamedelfal/vftvk-Simple-Interest-Calculator)
 
-## Starter Code
+## Starter Code [🔝](#introduction-to-web-development-with-html-css-javascript-by-ibm)
 ![3](./image/StarterCodeWebPage.jpg)
 
 **Click *[here](./starter-code/)* to open Starter Code Folder**
 
 **Click *[here]( https://mohamedelfal.github.io/Introduction-to-Web-Development-with-HTML-CSS-JavaScript-by-IBM/starter-code/)* To Open Starter Code WebPage**
 
-## solution
+## solution [🔝](#introduction-to-web-development-with-html-css-javascript-by-ibm)
  ![solution](./image/solution.jpg)  
  
  
@@ -130,3 +130,4 @@ You can use this feature to publish any of your projects. Let us create a URL fo
 
 # ***that's all***
 # ***Mohamed Antar Abdelhadi***
+# [🔝](#introduction-to-web-development-with-html-css-javascript-by-ibm)
