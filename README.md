@@ -116,7 +116,7 @@ You can use this feature to publish any of your projects. Let us create a URL fo
 ## I have forked [here](https://github.com/mohamedelfal/vftvk-Simple-Interest-Calculator)
 
 ## Starter Code
-![3](./image/3.png)
+![3](./image/StarterCodeWebPage.jpg)
 
 **Click *[here](./starter-code/)* to open Starter Code Folder**
 
